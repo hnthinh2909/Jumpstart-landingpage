@@ -1,0 +1,22 @@
+:root {
+    --primary-color: rgb(2,134,109);
+    --black-color: rgb(44,48,56);
+    --white-color: rgb(255,255,255);
+    --silver-color: rgb(234,237,242);
+    --green-color: rgb(25,45,53);
+    --else-color: rgb(52, 68, 73);
+}
+
+.grid {
+    width: 1120px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";;
+    font-size: 62.5%;
+    line-height: 1.5;
+}
